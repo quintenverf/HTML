@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c759bb-e9db-4097-990b-7709fdb73e2f" name="Default Changelist" comment="" />
+    <list default="true" id="156f1aed-28b3-42ac-937e-81ac1f74592a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/HTML -CSS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H02/html.tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H02/img/gymp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H03/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H03/tabellen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H04/elektriciteit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H04/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H04/opmaak.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H04/wilkens_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/burton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/img/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/img/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/img/appel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/img/book.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/img/burton_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/img/bus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/img/desk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/img/football.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/img/pythagoras.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H05/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H06/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H07/img/drums.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H07/img/gitaar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H07/img/saxofoon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H07/img/trompet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H07/img/truemusic-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H07/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H07/truemusic.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,63 +65,50 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1k8wrKgPNr1aAgGtLUpXaMpm5e7" />
+  <component name="ProjectId" id="1kVGX5wsVf7izmwsraOwq9ASbMz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTML CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="04c759bb-e9db-4097-990b-7709fdb73e2f" name="Default Changelist" comment="" />
-      <created>1605095723472</created>
+      <changelist id="156f1aed-28b3-42ac-937e-81ac1f74592a" name="Default Changelist" comment="" />
+      <created>1605778381961</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605095723472</updated>
-      <workItem from="1605095724570" duration="35037000" />
+      <updated>1605778381961</updated>
+      <workItem from="1605778383303" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="640" y="458" key="FileChooserDialogImpl" timestamp="1605602987795">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="640" y="458" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1605602987795" />
-    <state x="735" y="601" key="Github.ShareDialog" timestamp="1605270283147">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="735" y="601" key="Github.ShareDialog/-1920.0.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1605270283147" />
-    <state x="93" y="100" width="1534" height="1207" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605445707359">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="93" y="100" width="1534" height="1207" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1536.832/0.0.3440.1400@0.0.3440.1400" timestamp="1605445707359" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1605096372795">
+    <state x="162" y="70" key="FileChooserDialogImpl" timestamp="1605778402488">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605096372795" />
-    <state x="88" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605181298970">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="88" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605181298970" />
+    <state x="162" y="70" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605778402488" />
   </component>
 </project>
